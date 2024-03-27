@@ -7,6 +7,10 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+import io.github.example.productservice.model.GenericResponse;
+import io.github.example.productservice.model.ProductCreateRequest;
+import io.github.example.productservice.model.ProductCreateResponse;
+import io.github.example.productservice.service.ProductService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
