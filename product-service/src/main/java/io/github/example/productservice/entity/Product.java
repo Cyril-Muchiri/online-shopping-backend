@@ -1,4 +1,4 @@
-package io.github.oengajohn.productservice.entity;
+package io.github.example.productservice.entity;
 
 import java.math.BigDecimal;
 

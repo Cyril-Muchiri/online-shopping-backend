@@ -1,16 +1,16 @@
-package io.github.oengajohn.productservice.service.impl;
+package io.github.example.productservice.service.impl;
 
 import java.util.List;
 
 import org.springframework.beans.BeanUtils;
 import org.springframework.stereotype.Service;
 
-import io.github.oengajohn.productservice.entity.Product;
-import io.github.oengajohn.productservice.exception.ProductNotFoundException;
-import io.github.oengajohn.productservice.model.ProductCreateRequest;
-import io.github.oengajohn.productservice.model.ProductCreateResponse;
-import io.github.oengajohn.productservice.repository.ProductRepository;
-import io.github.oengajohn.productservice.service.ProductService;
+import io.github.example.productservice.entity.Product;
+import io.github.example.productservice.exception.ProductNotFoundException;
+import io.github.example.productservice.model.ProductCreateRequest;
+import io.github.example.productservice.model.ProductCreateResponse;
+import io.github.example.productservice.repository.ProductRepository;
+import io.github.example.productservice.service.ProductService;
 
 
 @Service

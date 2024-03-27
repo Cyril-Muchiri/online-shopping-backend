@@ -1,4 +1,4 @@
-package io.github.oengajohn.productservice.exception;
+package io.github.example.productservice.exception;
 
 public class ProductNotFoundException extends RuntimeException {
 

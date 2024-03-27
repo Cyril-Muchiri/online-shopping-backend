@@ -1,4 +1,4 @@
-package io.github.oengajohn.productservice.controller;
+package io.github.example.productservice.controller;
 
 import java.util.List;
 
@@ -7,10 +7,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.github.oengajohn.productservice.model.GenericResponse;
-import io.github.oengajohn.productservice.model.ProductCreateRequest;
-import io.github.oengajohn.productservice.model.ProductCreateResponse;
-import io.github.oengajohn.productservice.service.ProductService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

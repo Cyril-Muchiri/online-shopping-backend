@@ -1,10 +1,10 @@
-package io.github.oengajohn.apigateway;
+package io.github.example.inventoryservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiGatewayApplicationTests {
+class InventoryServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,4 +1,4 @@
-package io.github.oengajohn.discoveryserver;
+package io.github.example.discoveryserver;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

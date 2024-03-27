@@ -1,4 +1,4 @@
-package io.github.oengajohn.productservice.exception;
+package io.github.example.productservice.exception;
 
 
 import org.springframework.http.HttpStatus;
@@ -6,7 +6,8 @@ import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.ResponseStatus;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
-import io.github.oengajohn.productservice.model.GenericResponse;
+import io.github.example.productservice.model.GenericResponse;
+
 
 @RestControllerAdvice
 public class ControllerAdvise {

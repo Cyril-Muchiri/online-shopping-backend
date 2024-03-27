@@ -1,9 +1,11 @@
-package io.github.oengajohn.productservice.service;
+package io.github.example.productservice.service;
 
 import java.util.List;
 
-import io.github.oengajohn.productservice.model.ProductCreateRequest;
-import io.github.oengajohn.productservice.model.ProductCreateResponse;
+import io.github.example.productservice.model.ProductCreateRequest;
+import io.github.example.productservice.model.ProductCreateResponse;
+
+
 
 public interface ProductService {
 
