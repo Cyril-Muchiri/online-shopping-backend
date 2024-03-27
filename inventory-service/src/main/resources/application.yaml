@@ -4,7 +4,7 @@ spring:
   application:
     name: inventory-service
   profiles:
-    active: qa,default
+    active: development,default
   config:
     import: optional:configserver:http://localhost:8888
   

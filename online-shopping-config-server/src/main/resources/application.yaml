@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/oengajohn/spring-microservices-config-repository
+          uri: https://github.com/Cyril-Muchiri/Spring-config
           default-label: main
           skipSslValidation: true
           force-pull: true
