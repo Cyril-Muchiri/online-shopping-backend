@@ -8,7 +8,7 @@
 		<version>3.2.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>io.github.oengajohn</groupId>
+	<groupId>io.github.example</groupId>
 	<artifactId>online-shopping-config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>online-shopping-config-server</name>
